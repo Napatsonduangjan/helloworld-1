@@ -54,5 +54,10 @@ namespace TeampCalculator
             //show input to textbox
             textBoxC.Text = c.ToString();
         }
+
+        private void textBoxC_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
