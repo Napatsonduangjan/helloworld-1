@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef2d3231-0a2d-4076-9ec4-6c48f275f68a": {
+      "ProjectGuid": "ef2d3231-0a2d-4076-9ec4-6c48f275f68a",
+      "DisplayName": "TeampCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

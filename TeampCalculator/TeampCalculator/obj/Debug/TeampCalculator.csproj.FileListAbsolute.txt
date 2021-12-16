@@ -1,0 +1,11 @@
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\bin\Debug\TeampCalculator.exe.config
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\bin\Debug\TeampCalculator.exe
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\bin\Debug\TeampCalculator.pdb
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\obj\Debug\TeampCalculator.csproj.AssemblyReference.cache
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\obj\Debug\TeampCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\obj\Debug\TeampCalculator.Properties.Resources.resources
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\obj\Debug\TeampCalculator.csproj.GenerateResource.cache
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\obj\Debug\TeampCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\obj\Debug\TeampCalculator.exe
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\obj\Debug\TeampCalculator.pdb
+C:\Users\TeammyNo1\Documents\GitHub\helloworld\TeampCalculator\TeampCalculator\obj\Debug\TeampCalculator.bouttonConvert.resources
