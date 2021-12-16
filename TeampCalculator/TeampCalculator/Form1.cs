@@ -30,7 +30,7 @@ namespace TeampCalculator
 
         private void button2_Click(object sender, EventArgs e)
         {
-             //input
+            //input
             //นี้คือคอมเม้นท์
             //textBoxC.Text = "hello";
             //textBoxF.Text = "world";
@@ -42,6 +42,17 @@ namespace TeampCalculator
             double f = c * 9 / 5 + 32;
             //show input to textbox
             textBoxF.Text = f.ToString();
+            
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //convert to c
+            double f = Convert.ToDouble(textBoxF.Text);
+            double c =  (f -32) * 5/9 ;
+            //show input to textbox
+            textBoxC.Text = c.ToString();
         }
     }
 }
